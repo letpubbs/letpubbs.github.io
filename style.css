@@ -1,0 +1,26 @@
+.container-fluid {
+    font-family: 'Indie Flower', cursive;
+}
+
+#main-header, #main-footer {
+    text-align:center;
+    background-color:green;
+    color:white;
+    padding:10px;
+    font-family: 'Indie Flower', cursive;
+}
+
+.btn {
+    width: 25%;
+    font-family: 'Indie Flower', cursive;
+}
+
+#check,
+#tip,
+#total {
+    width: 60%
+}
+
+button {
+    margin: 10px;
+}
