@@ -8,7 +8,8 @@
     color:white;
     padding:10px;
     font-family: 'Indie Flower', cursive;
-    margin:10px 0px
+    margin:10px 0px;
+    border-radius: 0.25rem
 }
 
 .btn {
