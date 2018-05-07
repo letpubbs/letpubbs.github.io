@@ -1,5 +1,5 @@
 let tip = (cost, percent) => {
-  document.getElementById("tip").value = Math.floor((cost * percent).toFixed(2));
+  document.getElementById("tip").value = Math.round((cost * percent));
   document.getElementById("total").value = +document.getElementById("tip").value + +document.getElementById("check").value;
 }
 
